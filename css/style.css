@@ -1,0 +1,22 @@
+/* RESET */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+main {
+    padding: 2rem;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.album-card-container{
+    display: inline-block;
+    width: calc((100% / 4) - 1rem) ;
+    padding: .5rem;
+}
+.img-thumbnail {
+    width: 100%;
+    height: 20rem;
+}
