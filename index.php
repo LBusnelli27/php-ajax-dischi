@@ -17,7 +17,7 @@
 
 <body>
     <header>
-
+        <img id="spotify-logo" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Spotify.png" alt="Spotify Logo">
     </header>
 
 
